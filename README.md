@@ -1,6 +1,6 @@
 # Add To Cart
 
-[demolink]: (https://react-add-to-cart.vercel.app/)
+[Demo Link](https://react-add-to-cart.vercel.app/)
 
 ## Getting Started with Create React App
 
