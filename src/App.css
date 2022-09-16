@@ -1,0 +1,36 @@
+.swiper {
+  @apply w-full;
+}
+
+.swiper-slide {
+  @apply flex items-center justify-center
+  max-h-[400px] w-full;
+}
+
+.swiper-slide img {
+  @apply block object-contain w-full h-full aspect-square;
+}
+
+.swiper {
+  @apply w-full mx-auto;
+}
+
+.mySwiper2 {
+  @apply w-full;
+}
+
+.mySwiper {
+  @apply px-3 mt-5;
+}
+
+.mySwiper .swiper-slide {
+  @apply transition border-2 cursor-pointer hover:border-gray-300;
+}
+
+.mySwiper .swiper-slide img {
+  @apply object-cover w-full h-full aspect-square;
+}
+
+.mySwiper .swiper-slide-thumb-active {
+  @apply border-gray-400 hover:border-gray-400;
+}
